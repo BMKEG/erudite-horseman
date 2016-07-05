@@ -1,0 +1,29 @@
+{
+  "name": "erudite-horseman",
+  "version": "0.1.0",
+  "description": "Node Crawler Eductational Metadata (based on Andrew Forth's Phantom Utility Crawler)",
+  "keywords": [
+    "crawling",
+    "phantomjs",
+    "BigDataU"
+  ],
+  "bugs": {
+    "url": "https://github.com/BMKEG/erudite-horseman/issues"
+  },
+  "author": [
+    {
+      "name": "Gully Burns"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BMKEG/erudite-horseman/"
+  },
+  "dependencies": {
+    "commander": "2.6.0",
+    "node-horseman": "2.7.0",
+    "prompt": "0.2.14",
+    "valid-url": "1.0.9"
+  },
+  "license": "MIT"
+}
